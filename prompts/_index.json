@@ -1,0 +1,281 @@
+[
+  {
+    "id": "academia",
+    "name": "Academia",
+    "description": "University aesthetic, old libraries, warm paper textures, traditional serifs, gold/crimson accents.",
+    "mode": "dark",
+    "fontType": "serif",
+    "file": "academia.md",
+    "size": 26673
+  },
+  {
+    "id": "art-deco",
+    "name": "Art Deco",
+    "description": "1920s Gatsby elegance, geometric precision, metallic gold accents, architectural symmetry, luxury heritage",
+    "mode": "dark",
+    "fontType": "serif",
+    "file": "art-deco.md",
+    "size": 15180
+  },
+  {
+    "id": "aurora-mesh",
+    "name": "Aurora Mesh",
+    "description": "Flowing mesh gradients, aurora effects, vibrant color transitions, modern startup aesthetic inspired by Stripe and Vercel",
+    "mode": "dark",
+    "fontType": "sans-serif",
+    "file": "aurora-mesh.md",
+    "size": 9508
+  },
+  {
+    "id": "bauhaus",
+    "name": "Bauhaus",
+    "description": "Bold geometric modernism with circles, squares, and triangles. Primary color palette (Red/Blue/Yellow) with stark black borders and hard shadows. Functional yet artistic with constructivist asymmetry.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "bauhaus.md",
+    "size": 10285
+  },
+  {
+    "id": "bold-typography",
+    "name": "Bold Typography",
+    "description": "Type-driven design that treats massive typography as the primary visual element. Ultra-large headlines, extreme contrast, and dramatic negative space create poster-like compositions where words become art.",
+    "mode": "dark",
+    "fontType": "sans-serif",
+    "file": "bold-typography.md",
+    "size": 13368
+  },
+  {
+    "id": "botanical",
+    "name": "Botanical / Organic Serif",
+    "description": "Soft, earthy, elegant design inspired by nature. Features organic shapes, generous rounded corners, paper grain texture, muted earth tones, and sophisticated serif typography that breathes warmth and natural luxury.",
+    "mode": "light",
+    "fontType": "serif",
+    "file": "botanical.md",
+    "size": 9159
+  },
+  {
+    "id": "claymorphism",
+    "name": "Clay",
+    "description": "A hyper-realistic 3D aesthetic simulating soft, inflatable clay objects with multi-layered shadow stacks, vibrant candy-store colors, tactile micro-interactions, and organic floating ambient elements that create a premium, playful digital toy experience.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "claymorphism.md",
+    "size": 20683
+  },
+  {
+    "id": "cyberpunk",
+    "name": "Cyberpunk",
+    "description": "High contrast neon on black, glitch animations, terminal/monospace fonts, tech-oriented decorations. A dystopian digital aesthetic inspired by 80s sci-fi and hacker culture.",
+    "mode": "dark",
+    "fontType": "mono",
+    "file": "cyberpunk.md",
+    "size": 14741
+  },
+  {
+    "id": "enterprise",
+    "name": "Corporate Trust",
+    "description": "Modern SaaS aesthetic balancing professionalism with approachability. Vibrant indigo/violet gradients, soft colored shadows, isometric depth, and clean geometric sans-serif typography.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "enterprise.md",
+    "size": 12831
+  },
+  {
+    "id": "flat-design",
+    "name": "Flat Design",
+    "description": "A design philosophy centered on removing depth cues (shadows, bevels, gradients) in favor of pure color, typography, and layout. Crisp, two-dimensional, and geometric with bold color blocking.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "flat-design.md",
+    "size": 8131
+  },
+  {
+    "id": "glassmorphism",
+    "name": "Glassmorphism",
+    "description": "Apple-inspired aesthetic with rich mesh gradients, premium blur, and constrained layouts.",
+    "mode": "dark",
+    "fontType": "sans-serif",
+    "file": "glassmorphism.md",
+    "size": 2628
+  },
+  {
+    "id": "industrial",
+    "name": "Industrial",
+    "description": "A high-fidelity industrial skeuomorphism aesthetic inspired by Dieter Rams and Teenage Engineering. Features tactile neumorphic elements, matte plastic surfaces, and safety-orange accents. Every component mimics physical hardware with realistic lighting, mechanical interactions, and manufacturing details like screws, vents, and LED indicators.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "industrial.md",
+    "size": 21085
+  },
+  {
+    "id": "kinetic",
+    "name": "Kinetic",
+    "description": "Motion-first design where typography is the primary visual medium. Features infinite marquees, viewport-scaled text, scroll-triggered animations, and aggressive uppercase styling. High contrast, brutalist energy with rhythmic movement.",
+    "mode": "dark",
+    "fontType": "sans-serif",
+    "file": "kinetic.md",
+    "size": 23266
+  },
+  {
+    "id": "luxury",
+    "name": "Luxury",
+    "description": "Elegant serif typography with monochromatic palette and gold accents. Ultra-slow animations, generous white space, and architectural precision. High-end fashion magazine editorial aesthetic with depth through subtle shadows and layering.",
+    "mode": "light",
+    "fontType": "serif",
+    "file": "luxury.md",
+    "size": 22155
+  },
+  {
+    "id": "material-design",
+    "name": "Material",
+    "description": "Playful, dynamic color extraction, pill-shaped buttons, and distinct elevation states. Based on Google's Material Design 3 with enhanced depth and micro-interactions.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "material-design.md",
+    "size": 22790
+  },
+  {
+    "id": "maximalism",
+    "name": "Maximalism",
+    "description": "Clashing patterns, dense layouts, oversaturated colors, intentional visual clutter. MORE IS MORE.",
+    "mode": "dark",
+    "fontType": "sans-serif",
+    "file": "maximalism.md",
+    "size": 30937
+  },
+  {
+    "id": "minimal-dark",
+    "name": "Simple Dark",
+    "description": "An atmospheric dark mode design system built on deep slate tones with warm amber accents. Features ambient glow effects, glass-like translucent cards, geometric typography, and generous breathing room. Ethereal yet grounded—like a premium app at midnight.",
+    "mode": "dark",
+    "fontType": "sans-serif",
+    "file": "minimal-dark.md",
+    "size": 13744
+  },
+  {
+    "id": "modern-dark",
+    "name": "Modern Dark",
+    "description": "A cinematic, high-precision dark mode design featuring layered ambient lighting through animated gradient blobs, mouse-tracking spotlight effects, and meticulously crafted micro-interactions that feel like premium software.",
+    "mode": "dark",
+    "fontType": "sans-serif",
+    "file": "modern-dark.md",
+    "size": 15257
+  },
+  {
+    "id": "monochrome",
+    "name": "Monochrome",
+    "description": "A stark, editorial design system built on pure black and white. No accent colors—just dramatic contrast, oversized serif typography, and precise geometric layouts. Evokes high-end fashion editorials and architectural portfolios. Austere, sophisticated, unapologetically bold.",
+    "mode": "light",
+    "fontType": "serif",
+    "file": "monochrome.md",
+    "size": 14905
+  },
+  {
+    "id": "neo-brutalism",
+    "name": "Neo-brutalism",
+    "description": "A raw, high-contrast aesthetic that mimics print design and DIY punk culture. Characterized by cream backgrounds, thick black borders (4px), hard offset shadows with zero blur, clashing vibrant colors (Hot Red, Vivid Yellow, Soft Violet), and Space Grotesk typography at heavy weights. Embraces asymmetry, rotation, sticker-like layering, and organized visual chaos.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "neo-brutalism.md",
+    "size": 22943
+  },
+  {
+    "id": "neumorphism",
+    "name": "Neumorphism",
+    "description": "Extruded and inset elements via dual shadows on monochromatic backgrounds. Soft, tactile, and physically grounded with excellent accessibility.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "neumorphism.md",
+    "size": 9976
+  },
+  {
+    "id": "newsprint",
+    "name": "Newsprint",
+    "description": "Stark black and white, high contrast, tight grids, newspaper aesthetic, sharp lines, editorial depth.",
+    "mode": "light",
+    "fontType": "serif",
+    "file": "newsprint.md",
+    "size": 16865
+  },
+  {
+    "id": "organic",
+    "name": "Organic / Natural",
+    "description": "Earth-inspired palette with moss greens, terracotta, and sand tones. Features organic blob shapes, grain texture overlays, asymmetric rounded corners, and soft shadows. Embraces wabi-sabi philosophy with warmth and natural imperfection.",
+    "mode": "light",
+    "fontType": "serif",
+    "file": "organic.md",
+    "size": 10876
+  },
+  {
+    "id": "playful-geometric",
+    "name": "Playful Geometric",
+    "description": "A vibrant, high-energy aesthetic that combines a stable structural grid with whimsical geometric decorations. It relies on bright solid colors, simple primitive shapes (circles, triangles, squiggles), and tactile interactions to create a friendly, optimistic vibe reminiscent of modern Memphis design.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "playful-geometric.md",
+    "size": 7040
+  },
+  {
+    "id": "professional",
+    "name": "Business Style",
+    "description": "An editorial-inspired minimalist design system centered on elegant serif typography. Warm ivory backgrounds with subtle paper texture, refined spacing, rule lines, and classical proportions create a timeless, literary aesthetic. Enhanced depth through layered gradients and multi-toned shadows. The design whispers sophistication through restraint and typographic excellence.",
+    "mode": "light",
+    "fontType": "serif",
+    "file": "professional.md",
+    "size": 19732
+  },
+  {
+    "id": "retro",
+    "name": "Retro",
+    "description": "Ugly-cool 90s nostalgia aesthetic with Windows 95 beveled UI, system fonts, bright primary colors, marquee scrolling text, and maximum visual chaos.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "retro.md",
+    "size": 21641
+  },
+  {
+    "id": "saas",
+    "name": "Tech Style",
+    "description": "A bold, minimalist-modern visual system combining clean aesthetics with dynamic execution. Features signature Electric Blue gradients, sophisticated dual-font pairing (Calistoga + Inter), animated hero graphics, inverted contrast sections, and micro-interactions throughout. Professional yet design-forward—confidence without clutter.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "saas.md",
+    "size": 22301
+  },
+  {
+    "id": "sketch",
+    "name": "Hand-Drawn / Sketch",
+    "description": "Organic wobbly borders, handwritten typography, paper textures, and playful imperfection. Every element feels sketched with markers and pencils on textured paper.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "sketch.md",
+    "size": 10184
+  },
+  {
+    "id": "swiss-minimalist",
+    "name": "Swiss",
+    "description": "A rigorous implementation of the International Typographic Style (1950s). Characterized by objective typography, sans-serif fonts (Inter), mathematical grids with subtle texture patterns, and a strict black/white/red palette. Prioritizes readability, precision, asymmetrical organization, and visual depth through layered patterns.",
+    "mode": "light",
+    "fontType": "sans-serif",
+    "file": "swiss-minimalist.md",
+    "size": 12230
+  },
+  {
+    "id": "terminal",
+    "name": "Terminal CLI",
+    "description": "A raw, functional, and retro-futuristic command-line interface aesthetic. High contrast, monospaced precision, and blinking cursors.",
+    "mode": "dark",
+    "fontType": "mono",
+    "file": "terminal.md",
+    "size": 4465
+  },
+  {
+    "id": "vaporwave",
+    "name": "Vaporwave",
+    "description": "A nostalgic, neon-drenched journey into 80s retro-futurism. High-contrast neon pinks and cyans against deep void purples. Digital grids, glowing horizons, surreal sunset gradients, and CRT scanline overlays create an immersive synthetic world.",
+    "mode": "dark",
+    "fontType": "mono",
+    "file": "vaporwave.md",
+    "size": 17543
+  }
+]
